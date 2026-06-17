@@ -1,0 +1,4 @@
+Tipo: Infraestructura
+Descripción: Hueco en una vía principal que dificulta el tránsito de vehículos y peatones.
+Tipo: Seguridad
+Descripción: Falta de iluminación en un parque comunitario durante las noches.

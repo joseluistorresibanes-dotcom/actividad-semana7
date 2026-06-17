@@ -1,0 +1,11 @@
+Prueba de consulta de reportes
+
+Cuando consulto la ruta `GET /reportes` en el navegador, Postman el servidor
+ devuelve una lista de los reportes registrados en formato JSON.
+  Después de enviar un reporte mediante la ruta `POST /reportes
+  este queda almacenado y puede visualizarse al hacer la consulta GET.
+
+La respuesta muestra información como el identificador `id`
+ el tipo de reporte y la descripción del problema reportado por la comunidad. 
+ Esto permite verificar que el sistema está guardando correctamente 
+ la información y facilitando el seguimiento de incidencias ciudadanas.
